@@ -48,7 +48,7 @@ Install these before anything else:
 Open a terminal and use:
 
 
-git clone https://github.com/blakebeckcoding/driver_fakevr.git
+git clone https://github.com/blakebeckcoding/Pepper.git
 
 
 After doing that then use:
