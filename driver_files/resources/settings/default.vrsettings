@@ -1,0 +1,11 @@
+{
+  "driver_fakevr": {
+    "enable": true,
+    "hmdSerialNumber": "FAKEHMD001",
+    "controllerSerialLeft": "FAKECTRL_L001",
+    "controllerSerialRight": "FAKECTRL_R001"
+  },
+  "steamvr": {
+    "activateMultipleDrivers": true
+  }
+}
